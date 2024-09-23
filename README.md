@@ -12,7 +12,7 @@ The application includes a  landing page showing about me, my education backgrou
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio](https://k-koech.github.io/portfolio-sdft11/)
+* You can view the web live on [)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
